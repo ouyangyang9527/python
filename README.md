@@ -1,2 +1,2 @@
 # python
-从Python入门
+2019年9月14日，GitHub创建分支，学习Python
